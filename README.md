@@ -2,3 +2,7 @@
 
 
 ## IN PROGRESS
+
+## Proposed tools 
+
+Sqlite: https://www.sqlite.org/index.html
